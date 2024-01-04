@@ -1,3 +1,4 @@
+<h3>Final Grade: A, 97.2%</h3>
 <h4>Assignment 1:</h4>
 <ul>Implemented a double ended queue</ul>
 <h4>Assignment 2:</h4>
