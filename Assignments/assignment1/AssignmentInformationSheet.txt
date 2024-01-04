@@ -1,0 +1,47 @@
+Name:_____Gordon Wong____ Assignment #: __1____
+
+Lecture Day and Time: _Tue/Thurs 1-2:15___
+
+Recitation Day and Time: __Fri 1-1:50_____
+
+Program Due Date: ___02/3/2023_________
+
+Handed in Date: ___02/3/2023________ 
+
+Source code (.java) file name(s):
+
+___Assig1A.java______Indexable.java________
+
+___Assig1B.java____IndexableAddRmove.java____IndexAddRemoveDeque.java___
+
+___DequeInterface.java____IndexDeque.java______MyDeque.java_________
+
+Input / output file name(s) (if applicable): ___________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: ____Yes_____ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: ___Yes_____ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):

@@ -1,0 +1,24 @@
+Name:_____Gordon Wong____ Assignment #: __3____
+
+Lecture Day and Time: _Tue/Thurs 1-2:15___
+
+Recitation Day and Time: __Fri 1-1:50_____
+
+Program Due Date: ___03/22/2023_________
+
+Handed in Date: ___03/22/2023________ 
+
+Source code (.java) file name(s):
+
+___Assig3.java________
+
+
+Input / output file name(s) (if applicable): sample.txt, sample2.txt, sample3.txt, sample4.txt
+
+
+Does your program compile without error?: ____Yes_____ 
+
+Does your program run without error?: ___No_____ 
+
+
+Additional comments (including problems and extra credit): finds a couple invalid phrases

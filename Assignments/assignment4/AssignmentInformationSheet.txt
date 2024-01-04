@@ -1,0 +1,51 @@
+Name:_____Gordon Wong____ Assignment #: __4____
+
+Lecture Day and Time: _Tue/Thurs 1-2:15___
+
+Recitation Day and Time: __Fri 1-1:50_____
+
+Program Due Date: ___04/14/2023_________
+
+Handed in Date: ___04/17/2023________ 
+
+Source code (.java) file name(s):
+
+___Assig4.java______MedOfFive.java________
+
+___MedOfThree.java____SimplePivot.java____RandomPivot.java___
+
+___MergeSort.java____Partitionable.java______Quick.java_________
+
+___QuickSort.java____Sorter.java______SortTest.java_________
+
+___TextMergeQuick.java____
+
+Input / output file name(s) (if applicable): ___________________
+
+____SortTest-out.txt____A4-1.txt_______A4-2.txt_______A4-4.txt__
+
+_____A4-8.txt_______A4-16.txt______445WriteUp.pdf_______________
+
+Does your program compile without error?: ____Yes_____ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: ___Yes_____ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
